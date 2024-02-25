@@ -1,0 +1,217 @@
+<html>
+<head>
+<title>Html Table</title>
+<table>
+<table border:1px solid black>
+<body>
+<h2>A basic Html table</h2>
+<tr>
+<th>Time</th>
+<th>sunday</th>
+<th>Monday</th>
+<th>Tuesday</th>
+<th>Wednesday</th>
+<th>Thursday</th>
+<th>Friday</th>
+<th>saturday</th>
+</tr>
+<tr>
+<td>5am to 11am</td>
+<td>school time</td>
+<td>school time</td>
+<td>school time</td>
+<td>school time</td>
+<td>school time</td>
+<td>school time</td>
+</tr>
+<tr> 
+<td>11am to 12pm</td> 
+<td>Lunch time</td>
+<td>Lunch time</td>
+<td>Lunch time</td>
+<td>Lunch time</td>
+<td>Lunch time</td>
+<td>Lunch time</td>
+<td>Lunch time</td>
+</tr>
+<tr>
+<td>12pm to 2pm</td>
+<td>cleaning room,washing clothes and Rest time</td>
+<td>cleaning room,washing clothes and Rest time</td>
+<td>cleaning room,washing clothes and Rest time</td>
+<td>cleaning room,washing clothes and Rest time</td>
+<td>cleaning room,washing clothes and Rest time</td>
+<td>cleaning room,washing clothes and Rest time</td>
+<td>cleaning room,washing clothes and Rest time</td>
+</tr>
+<tr>
+<td>3pm to 4pm</td>
+<td>Breakfast time</td>
+<td>Breakfast time</td>
+<td>Breakfast time</td>
+<td>Breakfast time</td>
+<td>Breakfast time</td>
+<td>Breakfast time</td>
+<td>Breakfast time</td>
+</tr>
+<tr>
+<td>4pm to 5pm</td>
+<td>Tution time</td>
+<td>Tution time</td>
+<td>Tution time</td>
+<td>Tution time</td>
+<td>Tution time</td>
+<td>Tution time</td>
+<td>Tution time</td>
+</tr>
+<tr>
+<td>6pm to 8pm</td>
+<td>Assignment time</td>
+<td>Assignment time</td>
+<td>Assignment time</td>
+<td>Assignment time</td>
+<td>Assignment time</td>
+<td>Assignment time</td>
+<td>Assignment time</td>
+</tr>
+<tr>
+<td>8pm to 9pm</td>
+<td>Dinner time</td>
+<td>Dinner time</td>
+<td>Dinner time</td>
+<td>Dinner time</td>
+<td>Dinner time</td>
+<td>Dinner time</td>
+<td>Dinner time</td>
+</tr>
+<tr>
+<td>9pm to 10pm</td>
+<td>using mobile phone</td>
+<td>using mobile phone</td>
+<td>using mobile phone</td>
+<td>using mobile phone</td>
+<td>using mobile phone</td>
+<td>using mobile phone</td>
+<td>using mobile phone</td>
+</tr>
+<tr>
+<td>11pm to 5am</td>
+<td>Sleeping time</td>
+<td>Sleeping time</td>
+<td>Sleeping time</td>
+<td>Sleeping time</td>
+<td>Sleeping time</td>
+<td>Sleeping time</td>
+<td>Sleeping time</td>
+</tr>
+</table></body></head></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
